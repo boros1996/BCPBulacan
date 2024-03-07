@@ -1,0 +1,8 @@
+git clone <file>
+git init //initialize
+git add . 
+git commit -m "comment"
+git branch <branchNAme> //gawa ng branch
+git checkout <branchNAme> // switch ng branch
+git push origin <branchNAme>
+
